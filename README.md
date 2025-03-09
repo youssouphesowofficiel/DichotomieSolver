@@ -18,7 +18,7 @@
 </head>
 <body>
     <div class="center">
-        <img src="https://github.com/youssouphesowofficiel/DichotomieSolver/blob/main/assets/banner.jpg?raw=true" alt="Banner" style="border-radius:20px;border:3px solid #2E3440;width:90%;margin:20px 0">
+        <img src="https://github.com/youssouphesowofficiel/DichotomieSolver/blob/main/assets/banner.jpg?raw=true" alt="Banner" style="border-radius:20px;border:3px solid #2E3440;width:100%;margin:0">
         
 <div>
     <img class="badge" src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white">
@@ -41,7 +41,7 @@
 <div class="section">
 <h2 class="center">🚀 Fonctionnalités</h2>
 <div class="center">
-    <img src="https://github.com/youssouphesowofficiel/DichotomieSolver/blob/main/assets/workflow.gif?raw=true" alt="Démonstration" width="70%">
+    <img src="https://github.com/youssouphesowofficiel/DichotomieSolver/blob/main/assets/workflow.gif?raw=true" alt="Démonstration" width="10%">
 </div>
 
 <ul>
