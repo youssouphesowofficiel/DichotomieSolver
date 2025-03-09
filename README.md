@@ -189,7 +189,7 @@
 </div>
 
 <div style="margin:20px">
-    <a href="https://github.com/youssouphesowofficiel/DichotomieSolver/issues">
+    <a href="https://github.com/youssouphesowofficiel/DichotomieSolver/issues/1">
         <img src="https://img.shields.io/github/issues/youssouphesowofficiel/DichotomieSolver?label=Problèmes">
     </a>
     <a href="https://github.com/youssouphesowofficiel/DichotomieSolver/pulls">
