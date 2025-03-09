@@ -18,9 +18,7 @@
 </head>
 <body>
     <div class="center">
-        <img src="https://raw.githubusercontent.com/youssouphesowofficiel/DichotomieSolver/main/assets/banner.jpg" 
-             alt="Bannière" 
-             style="border-radius:20px;border:3px solid #2E3440;width:90%;margin:20px 0">
+        <img src="https://raw.githubusercontent.com/youssouphesowofficiel/DichotomieSolver/main/assets/banner.jpg" alt="Bannière" style="border-radius:20px;border:3px solid #2E3440;width:90%;margin:20px 0">
         
 <div>
     <img class="badge" src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white">
