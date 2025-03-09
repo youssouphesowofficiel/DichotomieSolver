@@ -152,7 +152,8 @@
 <ul>
     <li>✅ Implémentation de base (v1.0)</li>
     <li>✅ Gestion d'erreurs (v1.2)</li>
-    <li>🔄 Interface Web (v2.0) <img src="https://progress-bar.dev/45"></li>
+    <li>🔄 Interface Web (v2.0) <svg width="100" height="20"> <rect width="45%" height="15" fill="#4CAF50"/> <rect x="45%" width="55%" height="15" fill="#E0E0E0"/> </svg>
+    </li>
     <li>📦 Export LaTeX (v2.1)</li>
     <li>⚡ Support GPU (v3.0)</li>
 </ul>
@@ -168,13 +169,13 @@
 </a>
 <h3>Youssouphe Sow</h3>
 <div>
-    <a href="https://linkedin.com/in/youssouphesow">
+    <a href="https://linkedin.com/in/youssouphesowofficiel">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin">
     </a>
     <a href="mailto:youssouphesow1111@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail">
     </a>
-    <a href="https://twitter.com/youssouphs">
+    <a href="https://twitter.com/youssouphesow">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter">
     </a>
 </div>
@@ -185,8 +186,8 @@
 <h3>💡 Contribuer</h3>
 <div class="code-block">
     # Fork le projet<br>
-    gh repo fork youssouphesowofficiel/DichotomieSolver<br><br>
-    
+    gh repo fork youssouphesowofficiel/DichotomieSolver
+    <br><br>
     # Créer une branche<br>
     git checkout -b feature/nouvelle-fonctionnalite
 </div>
