@@ -41,7 +41,7 @@
 <div class="section">
 <h2 class="center">🚀 Fonctionnalités</h2>
 <div class="center">
-    <img src="https://github.com/youssouphesowofficiel/DichotomieSolver/blob/main/assets/workflow.gif?raw=true" alt="Démonstration" width="10%" style="margin:0 20px">
+    <img src="https://github.com/youssouphesowofficiel/DichotomieSolver/blob/main/assets/workflow.gif?raw=true" alt="Démonstration" width="15%" left="20px">
 </div>
 
 <ul>
