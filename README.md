@@ -18,7 +18,7 @@
 </head>
 <body>
     <div class="center">
-        <img src="https://raw.githubusercontent.com/youssouphesowofficiel/DichotomieSolver/main/assets/banner.png" 
+        <img src="https://raw.githubusercontent.com/youssouphesowofficiel/DichotomieSolver/main/assets/banner.jpg" 
              alt="Bannière" 
              style="border-radius:20px;border:3px solid #2E3440;width:90%;margin:20px 0">
         
